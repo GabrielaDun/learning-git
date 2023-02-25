@@ -1,0 +1,6 @@
+
+.htmlvalidate.json:
+
+{  
+"extends": ["learning-git-2./file"]
+}

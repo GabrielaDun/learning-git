@@ -1,9 +1,15 @@
-h1 {
-font-size: 38px;
+body {
+    padding: 20px 20px 20px 40px;
 }
 
-
+h1 {
+    font-size: 38px;
+}
+h2 {
+    font-size: 24px;
+}
 p {
-font-size: 18px; 
-line-hight: 1.7;
+    font-size: 18px; 
+    line-height: 1.7;
+    font-style: italic;
 }
